@@ -366,7 +366,7 @@ h6 {
 
 - [x] T-CSS-11) Have you ever used a grid system, and if so, what do you prefer?
   - **Explanation:** I typically use a 12 column "grid" system when doing my initial web layout.
-  - **Use:** I find that it works well for laying out the average website and giving the site some visual consistency. When if comes to coding the site I find it helps speed up the layout immensely.
+  - **Use:** I find that it works well for laying out the average website and giving the site some visual consistency. When it comes to coding the site I find it helps speed up the layout immensely.
   - **Source:** https://www.flux-academy.com/blog/how-to-use-a-grid-in-web-design
 
 - [x] T-CSS-12) Have you used or implemented media queries or mobile specific layouts/CSS?
@@ -382,6 +382,7 @@ h6 {
   <rect width="100" height="100" stroke="blue" fill="purple" />
   ```
   - **Source:** https://www.frontendinterviewhandbook.com/css-questions/
+  
 - [x] T-CSS-14) Can you give an example of an `@media` property other than screen?
   - **Explanation & Use:** There are four types:
     - `all` - for all media type devices
